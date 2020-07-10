@@ -3,7 +3,7 @@
 <!--
 **kirtanp98/kirtanp98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-😏 Who am I? 🧐
+😏 Who are you? 🧐
 - I'm Kirtan!
 
 😬 No *who are you*? 🙄
@@ -21,7 +21,7 @@
 - Relearning 📓 Java ☕️ 🤢
 - Becoming an iOS 📱 expert 👨🏽‍🎓
 
-💖 What are my favorite languages? 😍
+💖 What are your favorite languages? 😍
 - Swift 🐦
 - Python 🐍
 - *Future*
