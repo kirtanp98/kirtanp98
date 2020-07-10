@@ -8,7 +8,7 @@
 
 😬 No *who are you*? 🙄
 - I'm a Software Developer at Vanguard 💸
-- An iOS 📱 app deverloper and enthusiast 🤯
+- An iOS 📱 app developer and enthusiast 🤯
 
 👨🏾‍💻 What are you working on? 👨🏽‍🎓
 - Making Java ☕️ micro-services at Vanguard 💸
