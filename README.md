@@ -30,7 +30,7 @@
   
 😎 You're cool! Where can I contact you! 📞
 - Email me at **<kirtanpatl@gmail.com>**
-- DM me on **[LinkedIn]<https://www.linkedin.com/in/kirtanpatel98/>** 
+- DM me on **[LinkedIn](https://www.linkedin.com/in/kirtanpatel98/)** 
 
 🤔 Why is your README filled with emojis? 🤨
 - No clue 😳
