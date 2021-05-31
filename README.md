@@ -7,13 +7,10 @@
 - I'm Kirtan!
 
 😬 No *who are you*? 🙄
-- I'm a Software Developer at Vanguard 💸
 - An iOS 📱 app developer and enthusiast 🤯
 
 👨🏾‍💻 What are you working on? 👨🏽‍🎓
-- Making Java ☕️ micro-services at Vanguard 💸
-- Developing a course sniper 🔫 using SwiftUI and Firebase 🔥
-- Planning an Anime/Manga 🗾 SwiftUI app using GraphQL 📈 and Combine 🚇
+- Nothing right now 😔
 
 📚 Are you studying anything? 🤓
 - *Ackshually* 🤓 I'm trying to experiment 🧪 with Combine 🚇
