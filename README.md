@@ -7,6 +7,7 @@
 - I'm Kirtan!
 
 😬 No *who are you*? 🙄
+- I'm a Software Engineer at Tradeweb 💸
 - An iOS 📱 app developer and enthusiast 🤯
 
 👨🏾‍💻 What are you working on? 👨🏽‍🎓
